@@ -194,13 +194,11 @@ body {
     line-height: 1.6;
     margin: 0;
 
-    /* ФОН — КАРТИНКА */
-    background-image: url('img/background.jpg');
+    background-image: url('fonts/background.jpg');
     background-size: cover;          /* растянуть на весь экран */
     background-position: center;     /* центрировать */
     background-attachment: fixed;    /* фон не скроллится */
     background-repeat: no-repeat;    /* не повторять */
 
-    /* Резервный цвет, если картинка не загрузится */
     background-color: #1a1a2e;
 }
