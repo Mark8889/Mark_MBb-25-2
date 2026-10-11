@@ -195,7 +195,7 @@ body {
     margin: 0;
 
     /* ФОН — КАРТИНКА */
-    background-image: url('images/background.jpg');
+    background-image: url('img/background.jpg');
     background-size: cover;          /* растянуть на весь экран */
     background-position: center;     /* центрировать */
     background-attachment: fixed;    /* фон не скроллится */
